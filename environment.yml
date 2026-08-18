@@ -1,0 +1,11 @@
+name: research-history-of-geography
+channels:
+  - defaults
+dependencies:
+  - python=3.13.11
+  - geopandas
+  - requests
+  - openpyxl
+  - geoplot
+prefix: 
+  C:\Users\5298954\AppData\Local\miniconda3\envs\research-history-of-geography
